@@ -1,0 +1,1 @@
+import{j as s}from"./vendor-Cx07XoB9.js";import{N as t,F as o}from"./Footer-Bp4eDysG.js";import{C as r}from"./ContactSection-DzoLZrsD.js";import"./button-BZW-vOLJ.js";import"./index-LrqXURZk.js";const c=()=>s.jsxs("div",{className:"min-h-screen",children:[s.jsx(t,{}),s.jsx("main",{className:"pt-20 pb-16",children:s.jsx(r,{})}),s.jsx(o,{})]});export{c as default};
