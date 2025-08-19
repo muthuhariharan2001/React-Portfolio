@@ -36,7 +36,15 @@ const ProjectsSection = () => {
       tech: ['React','Cloudinary', 'Firebase', 'Node.js','MongoDB'],
       github: 'https://github.com/muthuhariharan2001/chat-app-hariharan/',
       live: 'https://chat-app-hariharan.netlify.app/'
-    }
+    },
+    {
+      title: 'Jarvis AI Personal Assistant',
+      description: 'Just a Rather Very Intelligent System - Supports AI Integration and System Controls',
+      image: '../../../5th_Project.webp',
+      tech: ['React', 'Gemini API', 'Express.js', 'System Controls'],
+      github: 'https://github.com/muthuhariharan2001/Jarvis-AI-Bot',
+      live: ''
+    },
   ];
 
   return (
