@@ -27,7 +27,7 @@ const Hero = () => {
             <span className="gradient-text">Premium</span> Portfolio
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8 leading-relaxed">
-            Crafting elegant digital experiences with cutting-edge technology and creative innovation
+            Developer by craft, teacher by choice.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
