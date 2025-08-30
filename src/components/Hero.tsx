@@ -44,7 +44,7 @@ const Hero = () => {
             <Button 
               variant="outline" 
               className="border-gold-500 text-gold-400 hover:bg-gold-500 hover:text-black px-8 py-3 text-lg rounded-full transition-all duration-300 hover:scale-105"
-              onClick={() => window.location.href = '/contact'}
+              onClick={() => window.location.href = 'https://muthu-hariharan.netlify.app/contact'}
             >
               Contact Me
             </Button>
