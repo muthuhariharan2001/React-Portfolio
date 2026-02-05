@@ -6,20 +6,12 @@ import DraggableCard from './DraggableCard';
 const ProjectsSection = () => {
   const projects = [
     {
-      title: 'E-Commerce Platform',
-      description: 'Full-stack e-commerce solution with React, Node.js, Cloudinary and MongoDB',
-      image: '../../../1st_Project.webp',
-      tech: ['React', 'Node.js', 'MongoDB', 'ExpressJS', 'Stripe', 'RazorPay', 'Cloudinary'],
-      github: 'https://github.com/muthuhariharan2001/react-ecommerce',
-      live: '#'
-    },
-    {
       title: 'Enhanced Code Editor',
       description: 'A powerful code editor with syntax highlighting, and Piston API integration via Monaco Editor.',
       image: '../../../2nd_Project.webp',
       tech: ['React', 'ExpressJS', 'MonacoEditor','MongoDB','Piston API'],
       github: 'https://github.com/muthuhariharan2001/React-Code-Editor-Backend/tree/main',
-      live: 'https://react-code-editor-server-repo-production.up.railway.app/'
+      live: 'https://master-coder.vercel.app/'
     },
     {
       title: 'Spotify Clone',
@@ -36,6 +28,14 @@ const ProjectsSection = () => {
       tech: ['React','Cloudinary', 'Firebase', 'Node.js','MongoDB'],
       github: 'https://github.com/muthuhariharan2001/chat-app-hariharan/',
       live: 'https://chat-app-hariharan.netlify.app/'
+    },
+    {
+      title: 'E-Commerce Platform',
+      description: 'Full-stack e-commerce solution with React, Node.js, Cloudinary and MongoDB',
+      image: '../../../1st_Project.webp',
+      tech: ['React', 'Node.js', 'MongoDB', 'ExpressJS', 'Stripe', 'RazorPay', 'Cloudinary'],
+      github: 'https://github.com/muthuhariharan2001/react-ecommerce',
+      live: '#'
     },
     {
       title: 'Jarvis AI Personal Assistant',
